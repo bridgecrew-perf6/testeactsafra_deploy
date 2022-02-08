@@ -1,0 +1,1 @@
+angular.module("testActSafra", ['ngRoute', 'angular-md5'])
